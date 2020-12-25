@@ -1,2 +1,2 @@
 # alien_invasion
-Python游戏，外星人入侵
+参考《Python编程》上的外星人入侵项目，增加了自动跟踪子弹
